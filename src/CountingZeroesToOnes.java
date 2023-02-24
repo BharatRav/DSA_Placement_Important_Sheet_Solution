@@ -5,36 +5,29 @@ import java.math.*;
 // don't change the name of this class
 // you can add inner classes if needed
 class CountingZeroesToOnes {
-    //it fails 2 tc
-    public static void main (String[] args) {
-        // Your code here
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n=sc.nextInt();
-        int k =sc.nextInt();
-        int r=0,c=0;
-        BigInteger ans = BigInteger.valueOf(n*n);
-
-        int[] row =new int[n+1];
-        int[] col =new int[n+1];
-
-        while (k-- >0) {
-            int i=sc.nextInt();
-            int j=sc.nextInt();
-
-            if (row[i]==0) {
-//                ans-=n-c;
-                ans = ans.subtract(BigInteger.valueOf(n-c));
-                row[i] =1;
-                r++;
+        int n = sc.nextInt();
+        int q = sc.nextInt();
+        int row[] = new int[n];
+        int col[] = new int[n];
+        long rowZero = n;
+        long colZero = n;
+        while (q-- > 0) {
+            int r = sc.nextInt();
+            int c = sc.nextInt();
+            r--;
+            c--;
+            if (row[r] == 0) {//not striked
+                row[r] = 1;
+                rowZero--;
             }
-            if (col[j]==0) {
-                ans= ans.subtract(BigInteger.valueOf(n-r));
-                col[j] =1;
-                c++;
+            if (col[c] == 0) {
+                col[c] = 1;
+                colZero--;
             }
-            System.out.print(ans+" ");
+            System.out.print((rowZero * colZero) + " ");
         }
-
     }
 }
 /*
