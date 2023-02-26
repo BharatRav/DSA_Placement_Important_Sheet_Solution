@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Buildings {
     public static void main (String[] args) {
         // Your code here
