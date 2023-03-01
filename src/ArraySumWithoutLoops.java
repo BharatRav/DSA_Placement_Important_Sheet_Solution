@@ -11,7 +11,7 @@ public class ArraySumWithoutLoops {
         //it'll motivate us to do more question
         //http://github.com/bharatrav
 
-        return recursivelySum(arr,currIndex+1,size);
+        return arr[currIndex] + recursivelySum(arr,currIndex+1,size);
     }
     public static void main (String[] args) {
         // Your code here
