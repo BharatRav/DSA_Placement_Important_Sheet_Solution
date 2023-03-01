@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SpeedLimitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuspenseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <recent name="C:\Users\we\IdeaProjects\DSA_Newton_Placement_Important_Sheet_Solution\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MostOccuringElements">
+  <component name="RunManager" selected="Application.SuspenseString">
     <configuration name="MostOccuringElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MostOccuringElements" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
@@ -58,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuspenseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuspenseString" />
+      <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuspenseString" />
         <item itemvalue="Application.MostOccuringElements" />
         <item itemvalue="Application.NextVowel" />
       </list>
