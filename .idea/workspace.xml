@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="" />
+    <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ModSquare.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
