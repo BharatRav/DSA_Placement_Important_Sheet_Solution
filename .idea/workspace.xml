@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PairEmUpContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountTotalDigitsInANumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\we\IdeaProjects\DSA_Newton_Placement_Important_Sheet_Solution\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharacterAssassination">
+  <component name="RunManager" selected="Application.CountTotalDigitsInANumber">
     <configuration name="ArrayGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayGames" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
@@ -58,15 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostOccuringElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostOccuringElements" />
+    <configuration name="CountTotalDigitsInANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountTotalDigitsInANumber" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NextVowel" />
+    <configuration name="MostOccuringElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MostOccuringElements" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountTotalDigitsInANumber" />
         <item itemvalue="Application.CharacterAssassination" />
         <item itemvalue="Application.ArrayGames" />
         <item itemvalue="Application.SuspenseString" />
         <item itemvalue="Application.MostOccuringElements" />
-        <item itemvalue="Application.NextVowel" />
       </list>
     </recent_temporary>
   </component>
