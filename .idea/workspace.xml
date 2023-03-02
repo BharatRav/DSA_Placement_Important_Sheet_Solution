@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayGames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterAssassination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,16 @@
       <recent name="C:\Users\we\IdeaProjects\DSA_Newton_Placement_Important_Sheet_Solution\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayGames">
+  <component name="RunManager" selected="Application.CharacterAssassination">
     <configuration name="ArrayGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayGames" />
+      <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterAssassination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterAssassination" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharacterAssassination" />
         <item itemvalue="Application.ArrayGames" />
         <item itemvalue="Application.SuspenseString" />
         <item itemvalue="Application.MostOccuringElements" />
