@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Link:-https://my.newtonschool.co/playground/code/etgwyf9o9915/
 public class MaxCandies1st {
     //i recommend first check that you r on right queestion ornot because their is 2 questions having same name,
     //i have write down problem statement at the bottom
