@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DecomposeTheEncodedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfTheLastKNumbersContest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <recent name="C:\Users\we\IdeaProjects\DSA_Newton_Placement_Important_Sheet_Solution\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountTotalDigitsInANumber">
+  <component name="RunManager" selected="Application.SumOfTheLastKNumbersContest">
     <configuration name="ArrayGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayGames" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
@@ -65,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostOccuringElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostOccuringElements" />
+    <configuration name="SumOfTheLastKNumbersContest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfTheLastKNumbersContest" />
       <module name="DSA_Newton_Placement_Important_Sheet_Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfTheLastKNumbersContest" />
         <item itemvalue="Application.CountTotalDigitsInANumber" />
         <item itemvalue="Application.CharacterAssassination" />
         <item itemvalue="Application.ArrayGames" />
         <item itemvalue="Application.SuspenseString" />
-        <item itemvalue="Application.MostOccuringElements" />
       </list>
     </recent_temporary>
   </component>
