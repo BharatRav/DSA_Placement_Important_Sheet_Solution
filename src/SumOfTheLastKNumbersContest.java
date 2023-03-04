@@ -23,6 +23,9 @@ public class SumOfTheLastKNumbersContest {
             } else {
                 System.out.println(DataBase);
             }
+            //if you like it plz give a star to the repository
+            //it'll motivate us to do more question
+            //http://github.com/bharatrav
 
         }
     }
