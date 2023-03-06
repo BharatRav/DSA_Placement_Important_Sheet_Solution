@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CakeWalkContest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b075d90a-4684-4f04-a1a6-0b018be61d80" name="Changes" comment="very good qution. i was trying it using Arrays.sprt but it gives TLE so i used bruteforce" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677029836531</updated>
     </task>
+    <task id="LOCAL-00001" summary="very good qution. i was trying it using Arrays.sprt but it gives TLE so i used bruteforce">
+      <created>1678106930985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678106930985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="very good qution. i was trying it using Arrays.sprt but it gives TLE so i used bruteforce" />
+    <option name="LAST_COMMIT_MESSAGE" value="very good qution. i was trying it using Arrays.sprt but it gives TLE so i used bruteforce" />
   </component>
 </project>
