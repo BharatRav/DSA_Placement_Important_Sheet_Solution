@@ -28,6 +28,30 @@ class HipHipArray {
     //if you like it plz give a star to the repository
     //it'll motivate us to do more question
     //http://github.com/bharatrav
+
+    //Method 2
+    /*
+    public static void main (String[] args) {
+		Scanner sc= new Scanner(System.in);
+		int n= Integer.parseInt(sc.nextLine());
+		String temp[]= sc.nextLine().split(" ");
+		int[] arr= new int[n];
+		for(int i=0;i<n;i++){
+			arr[n-i-1]=Integer.parseInt(temp[i]);
+		}
+		long sum=0, product=1;
+		for(int i=0;i<n;i++){
+			if(i%2==1){
+				sum+=arr[i];
+			}
+			else{
+				product*=arr[i];
+			}
+		}
+		System.out.println(sum+" "+product);
+
+	}
+     */
 }
 // 1 2 3 4 5 6
 // 6 5 4 3 2 1
