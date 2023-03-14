@@ -11,6 +11,9 @@ public class StrongDivisibleNumbersContest {
         return count;
     }
     public static void main (String[] args) {
+        //if you like it plz give a star to the repository
+        //it'll motivate us to do more question
+        //http://github.com/bharatrav
         // Your code here
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
