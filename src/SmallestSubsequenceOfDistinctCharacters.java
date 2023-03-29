@@ -37,3 +37,28 @@ public class SmallestSubsequenceOfDistinctCharacters {
         return sb.toString();
     }
 }
+/*
+Problem Statement
+Given a string s, return the lexicographically smallest subsequence of s that contains all the distinct characters of s exactly once.
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function smallestSubsequence() that takes string "s" as parameter.
+
+Constraints:
+1 ≤ s.length ≤ 1000
+s consists of lowercase English letters.
+Output
+Return the lexicographically smallest subsequence of s that contains all the distinct characters of s exactly once.
+starsASK AI
+BETA
+Simpler Explanation
+Concepts Used
+Example
+Sample 1:
+Input: s = "bcabc"
+Output: "abc"
+
+Sample 2:
+Input: s = "cbacdcbc"
+Output: "acdb"
+ */
